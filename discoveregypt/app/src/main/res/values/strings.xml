@@ -1,0 +1,204 @@
+<resources>
+
+    <string name="app_name">Discover Egypt</string>
+    <string name="select">Please select a location</string>
+    <string name="history">History:</string>
+    <string name="location">Location: </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="category_historic_places">Historical Places</string>
+    <string name="more">More Information:</string>
+    <string name="take_a_tour_to">Take a tour to ...</string>
+    <string name="ancient_attractions">Ancient Attractions</string>
+    <string name="the_pyramids">The Pyramids</string>
+    <string name="modern_attractions">Modern Attractions</string>
+    <string name="coastal_attractions">Coastal attractions</string>
+
+    <!--opera data-->
+    <string name="opera_name">Opera House</string>
+    <string name="opera_short_location">11567 EL Borg Gezira,Cairo</string>
+    <string name="opera_location">it is located on the southern portion of Gezira Island in the Nile River, in the Zamalek district west of and near downtown Cairo.</string>
+    <string name="opera_history">The opera house was inaugurated on 10 October 1988
+The total area of Cairo Opera House is 22772 m2, and the area of the building itself is 13855m2, and height 42m at most. The amazing location at the south part of Gezira Island, where there is plenty of Nile water and trees, made this location an amazing natural view for the Cairo Opera house.
+</string>
+    <string name="opera_info">The Cairo Opera Complex consists of seven theaters, a music library, an art gallery and a museum.
+The Main Hall seats 1,200 people and has four levels, including orchestra seating, three tiers and a presidential box. It is used for operas and orchestra and ballet performances.
+The Small Hall seats up to 500 people on a single floor, is used for chamber music and recitals and can double as a very large reception hall for important events.
+The Open-Air Theatre is an acoustically designed square-shaped stage used for outdoor performances, and seats 600 people.
+</string>
+
+    <!--pyramids data-->
+    <string name="pyramid_name">Pyramids</string>
+    <string name="pyramid_short_location">Giza pyramid complex, Giza</string>
+    <string name="pyramid_location">The Great Pyramids of Giza, located on a plateau on the west bank of the Nile River, on the outskirts of modern-day Cairo. </string>
+    <string name="pyramid_history">Ancient Egyptians believed that when the king died, part of his spirit (known as “ka”) remained with his body. To properly care for his spirit, the corpse was mummified, and everything the king would need in the afterlife was buried with him, including gold vessels, food, furniture and other offerings. The pyramids became the focus of a cult of the dead king that was supposed to continue well after his death.</string>
+    <string name="pyramid_info">From the beginning of the Dynastic Era (2950 B.C.), royal tombs were carved into rock and covered with flat-roofed rectangular structures known as “mastabas,” which were precursors to the pyramids. The oldest known pyramid in Egypt was built around 2630 B.C. at Saqqara, for the third dynasty’s King Djoser. Known as the Step Pyramid, it began as a traditional mastaba but grew into something much more ambitious. As the story goes, the pyramid’s architect was Imhotep, a priest and healer who some 1,400 years later would be deified as the patron saint of scribes and physicians.</string>
+
+    <!--sharm data-->
+    <string name="sharm_name">Sharm El Sheikh</string>
+    <string name="sharm_short_location">The southern tip of the Sinai Peninsula</string>
+    <string name="sharm_location">Sharm El Sheikh has a significant location situated at the southernmost section of ‎Sinai, around 500 kilometers away from Cairo, the Egyptian capital, and positioned ‎in the place where the Suez Gulf and the Aqaba Gulf meet together with the Red Sea ‎to the South. ‎</string>
+    <string name="sharm_history">Under the rule of the Ottoman Empire, Sharm el Sheikh became a significant port named Sarm-us Seyh in the 16th century. Some attempts were made to mine gold here, although these mines were largely unsuccessful and unproductive.  After Egypt regained control over the city of ‎‎1982, the Egyptian authorities have given special attention to the city to make it one ‎of the most wonderful resort that has become famous all around the world with ‎tourists coming from Europe, the United States, and all the regions of the globe to ‎spend their holiday in the city of peace.</string>
+    <string name="sharm_info">The crystal-clear waters and incredible variety of exotic fish darting in and out of the colorful coral reefs have made this a scuba-diving paradise. Purpose-built Sharm El Sheikh occupies a prime position here, devoting itself solely to sun-and-sea holidays offering a family-friendly vibe and resort comforts, with world-class diving throw in.</string>
+
+    <!--Naama Bay data-->
+    <string name="naama_name">Naama Bay - Sharm</string>
+    <string name="naama_short_location">Sharm El Sheikh</string>
+    <string name="naama_location">it is located just 5 minutes drive from the historic Old City, and in the other direction just 5 minutes from the International Airport.</string>
+    <string name="naama_history">"Na'ama Bay was not always a tourist location, once an isolated bay north of the Sharm el-Sheikh which itself was just a base for fishermen. Since 1982 the Egyptian government has encouraged development and building has continued, environmental zoning laws prevent destruction of the local habitats are cultural views "</string>
+    <string name="naama_info">Fringed by a white sand beach and swaying palm trees, Naama Bay is the epicenter of Sharm el-Sheikh\'s resort life. There are plentiful restaurants, cafés, and souvenir stores if you get bored of the sand, but Naama Bay is really all about the beach. A pedestrian-only promenade rims the entire beach area, backed by a cluster of luxury resorts. Naama Bay is one of Egypt\'s top choices. The entire beach area has excellent facilities including ample sun-shades and loungers, and the beachside cafés mean you don\'t even have to move from your patch of sandy bliss all day.</string>
+
+    <!--Ras Mohammed National Park data-->
+    <string name="ras_mohammed_name">Ras Mohammed National Park</string>
+    <string name="ras_mohammed_short_location">Sharm El Sheikh</string>
+    <string name="ras_mohammed_location">Ras Mohamed is 480 kilometers in size with 135 kilometers of land and 345 kilometers of water. This besides the size of the two islands: Tiran and Sanafir which is 370 kilometers with 100 kilometers that consist of land and 270 kilometers that consist of water. </string>
+    <string name="ras_mohammed_history">The protected area in Ras Mohamed was established in 1983 and it was named Ras Mohamed, or the head of Mohamed because of its shape that looks like the top of a triangle with the mountains of south Sinai forming the other side of the triangle. The protected area of Ras Mohamed was included into the international list of heritage in the same year it was established. </string>
+    <string name="ras_mohammed_info">Ras Muhammad is the most famous national park in Egypt and one of the most famous diving sites in the world. A national park that is located between the rich coral reefs of the Red Sea and the inland desert of the Sinai- it covers the coral headland at the southernmost tip of Sinai. At the southern end of the headland there is a small stand of Mangrove . Beneath the crystal-clear waters of the Red Sea you\'ll find coral reefs teeming with life including a diversity of vertebrate and invertebrate species. Slightly further offshore you might spot dolphins, including Risso's Dolphin. The area hosts White Stork.</string>
+
+     <!--Hurghada data-->
+
+    <string name="hurghada_name">Hurghada</string>
+    <string name="hurghada_short_location">550 Km from Cairo</string>
+    <string name="hurghada_location">Hurghada is located on the Red Sea coast, almost 550 Km from Cairo. Egyptian’s used to call it Ghardaka, from which the name of the city was derived. Hurghada stretches for about 60 Km along the Red Sea coast.</string>
+    <string name="hurghada_history">The city was founded in the early 20th century, and until a few years ago it was a small fishing village. But since the 1980s, it has been continually enlarged by Egyptian and foreign investors to become the leading coastal resort on the Red Sea</string>
+    <string name="hurghada_info">Hurghada is Egypt\'s oldest and most famous resort. Offshore, is the colorful and bizarre Red Sea world of coral and fish life that first brought Hurghada to worldwide attention, while back on solid ground, the once tiny fishing settlement has mushroomed into a resort city catering directly to tourism. For northern Europeans (who make up most of Hurghada\'s tourism influx) this is a prime winter-escape destination with sandy white beaches and blue skies in abundance throughout the year. But while Hurghada's main attraction tends to be flopping on the beach, there's plenty more, both in the water and on dry land, for travelers who want a taste of adventure.</string>
+
+      <!--Alexandria data-->
+
+    <string name="alexandria_name">Alexandria</string>
+    <string name="alexandria_short_location">179Km north of Cairo</string>
+    <string name="alexandria_location">Alexandria is situated on the Mediterranean coast of Egypt, 179Km (111 miles) north of Cairo. It is Egypt’s second largest city, behind Cairo, but is sadly overlooked by tourists.</string>
+    <string name="alexandria_history">Alexandria was founded around a small, ancient Egyptian town c. 331 BC by Alexander the Great. It became an important center of the Hellenistic civilization and remained the capital of Hellenistic and Roman and Byzantine Egypt for almost 1000 years until the Muslims Succession ruled Egypt in AD 641, when a new capital was founded at Fustat (later absorbed into Cairo).</string>
+    <string name="alexandria_info">Though the original library and lighthouse are long gone, ruins dating to antiquity still dot Alexandria, including the Roman amphitheater of Kom El-Dikka, the 30m-tall granite Pompey’s Pillar and the Kom El-Shoqafa catacombs. Finds from these sites are displayed in the Alexandria National Museum, which recounts the city’s founding by Alexander the Great.</string>
+
+      <!--Marsa Matruh data-->
+
+    <string name="marsa_matruh_name">Marsa Matruh</string>
+    <string name="marsa_matruh_short_location">240 km west of Alexandria</string>
+    <string name="marsa_matruh_location">Mersa Matruh is a seaport in Egypt, the capital of the Matrouh Governorate. It is 240 km (150 mi) west of Alexandria and 222 km from Sallum, on the main highway from the Nile Delta to the Libyan border.</string>
+    <string name="marsa_matruh_history">At ancient times Marsa Matruh was called "Amounia" because it was the beginning of the way leading to Siwa where there was a temple for the god "Amoun" which was regularly visited by Alexander. History mentions as well that Cleopatra had a palace on the high hill that overlooks her famous basins in Marsa Matruh.Marsa Matrouh is located in the north west of Egypt which was once a place where Erwin Rommel commanded the Battle of El-Alamein. The cave for his operation was still there, but it has been changed into a Rommel Museum open to travelers. Its temperature can reach 28 C in summer in average, and it is not very low in winter, 13 C as the average one.</string>
+    <string name="marsa_matruh_info">Marsa Matrouh seems to be a big nestle inside a big circular bay, a hidden attraction protected by a series of rocks. As the capital of the Matrouh Governorate and one of the famous attractions in Egypt, it has a large size, extending from east to west, from the coast deep into the desert part.
+It boasts of long white beaches with sand clear waters like crystal ! the water’s colour differs due to the different depths of Matrouh’s bay. Meanwhile, the underwater world is amazing because the sea ground is made up of mountains, valleys and colourful fish species. As for people who enjoy the beauty of sea world, it is really a good opportunity to satisfy their needs. If you are one of them, please don’t miss it.
+</string>
+      <!--Great Sphinx data-->
+
+    <string name="great_sphinx_name">Great Sphinx</string>
+    <string name="great_sphinx_short_location">Giza pyramid complex</string>
+    <string name="great_sphinx_location">In a depression to the south of Khafre\'s pyramid at Giza</string>
+    <string name="great_sphinx_history">Great Sphinx was built in approximately 2500 BC by the pharaoh Khafre, the supposed builder of the second pyramid at Giza</string>
+    <string name="great_sphinx_info">The Great Sphinx is one of the largest and oldest monuments in the world. The body is 60m (200ft) long and 20m (65ft) tall. Its face is 4m (13ft) wide with eyes measuring 2m (6 ft) high. It faces the rising sun, and was revered so much by the ancients, that they built a temple in front of it.</string>
+      <!--Abu Simbel data-->
+
+    <string name="abu_simbel_name">Abu Simbel</string>
+    <string name="abu_simbel_short_location">230 km southwest of Aswan </string>
+    <string name="abu_simbel_location">Abu Simbel is an archaeological site comprising two massive rock temples in southern Egypt on the western bank of Lake Nasser</string>
+    <string name="abu_simbel_history">In ancient times the area was at the southern frontier of pharaonic Egypt, facing Nubia. The four colossal statues of Ramses in front of the main temple are spectacular examples of ancient Egyptian art. By means of a complex engineering feat in the 1960s, the temples were salvaged from the rising waters of the Nile River caused by erection of the Aswan High Dam.</string>
+    <string name="abu_simbel_info">The twin temples were originally carved out of the mountainside during the reign of Pharaoh Ramesses The Great in the 13th century BC, as a lasting monument to himself and his queen Nefertari. The complex was relocated in its entirety in the 1960s to avoid their being submerged during the creation of Lake Nasser, the massive artificial water reservoir formed after the building of the Aswan High Dam on the Nile River</string>
+
+    <!--Temple of Hatshepsut data-->
+
+    <string name="temple_of_hatshepsut_name">Temple of Hatshepsut</string>
+    <string name="temple_of_hatshepsut_short_location"> Kings Valley Rd, New Valley Governorate</string>
+    <string name="temple_of_hatshepsut_location">is situated beneath the cliffs at Deir el Bahari on the west bank of the Nile</string>
+    <string name="temple_of_hatshepsut_history">The Mortuary temple of Hatshepsut, who ruled Egypt from around 1479 BC until her death in 1458 BC, which was designed and implemented by Senemut, the royal architect of Hatshepsut, to serve for her posthumous worship and to honor the glory of Amun</string>
+    <string name="temple_of_hatshepsut_info">The temple is built into a cliff face that rises sharply above it and consists of three layered terraces reaching 30 meters (97 ft ) in height. These terraces are connected by long ramps which were once surrounded by gardens.</string>
+      <!--Luxor Temple data-->
+
+    <string name="luxor_temple_name">Luxor Temple</string>
+    <string name="luxor_temple_short_location">Luxor Governorate</string>
+    <string name="luxor_temple_location">on the east bank of the River Nile</string>
+    <string name="luxor_temple_history">was founded in 1400 BC during the New Kingdom. The temple was dedicated to the three Egyptian gods Amun, Mut, and Chons. The ancient temple was the center of the festival of Opet</string>
+    <string name="luxor_temple_info"> Thebes’ most important festival. During the annual festival the statues of the three Gods were escorted to the temple of Luxor along the avenue of sphinxes that connect the 2 temples</string>
+
+    <!--Valley of the Kings data-->
+
+    <string name="valley_of_the_kings_name">Valley of the Kings</string>
+    <string name="valley_of_the_kings_short_location">Luxor Governorate</string>
+    <string name="valley_of_the_kings_location">The ancient Egyptians built massive public monuments to their pharaohs. But they also spent time and treasure creating hidden underground mausoleums The most famed collection of such elaborate tombs—the Valley of the Kings—lies on the Nile\'s west bank near Luxor</string>
+    <string name="valley_of_the_kings_history">The Valley of the Kings is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, tombs were constructed for the kings and privileged nobles of the New Kingdom.</string>
+    <string name="valley_of_the_kings_info">The valley contains 63 tombs and chambers, ranging in size from a simple pit to a complex tomb with over 120 chambers. The royal tombs are decorated with scenes from Egyptian mythology and give clues to the beliefs and funerary rituals of the period. All of the tombs seem to have been opened and robbed in antiquity. Only the famous tomb of Tutankhamun was spared from the worst of the tomb depredations.</string>
+
+      <!--Mosque of Ibn Tulun data-->
+
+    <string name="mosque_of_ibn_tulun_name">Mosque of Ibn Tulun</string>
+    <string name="mosque_of_ibn_tulun_short_location">Cairo Governorate</string>
+    <string name="mosque_of_ibn_tulun_location">The mosque is located in a slightly elevated region of the Sayyida Zaynab district, in al-Khudairi Street, Cairo, Egypt</string>
+    <string name="mosque_of_ibn_tulun_history">The Mosque of Ibn Tulun, is considered the second oldest mosque extant in Egypt. It is the only remaining monument in the City of Qata\'i', established in AH 256 / AD 870 as the capital of the Tulunid state in Egypt</string>
+    <string name="mosque_of_ibn_tulun_info"> Four porticoes surround the courtyard, the largest is the eastern portico (that of the qibla) consisting of five arcades. As for the other three porticoes, each of them consists of two arcades. On the north, west and south sides, a large wall surrounds the mosque. Between these walls and the walls of the building is an open area called the ziyada</string>
+
+    <!--Mosque of al-Azhar data-->
+
+    <string name="mosque_of_al_azhar_name">Mosque of al-Azhar</string>
+    <string name="mosque_of_al_azhar_short_location">Cairo Governorate</string>
+    <string name="mosque_of_al_azhar_location">Al-Azhar Street in Al-Azhar district, Cairo, Egypt</string>
+    <string name="mosque_of_al_azhar_history">Hegira 359–61 / AD 970 – 72, master-builder General Jawhar al-Saqalli who conquered Egypt in AH 358 / AD 969 supervised the construction</string>
+    <string name="mosque_of_al_azhar_info">The Mosque of al-Azhar, was the first to be built in the Fatimid city of Cairo, and is the oldest and biggest Islamic university in the Islamic world, attracting students from a multiplicity of nations. The present standing structure does not date back in its entirety to the original Fatimid mosque, the rectangular surface area of which occupied only 70 m x 85 m. Today the building occupies over double that area, the dimensions reaching to 120 m x 130 m, owing to the various additions made at different periods.</string>
+
+    <!--Mosque of al-Hakim bi Amrillah data-->
+
+    <string name="mosque_of_al_Hakim_bi_amrillah_name">Mosque of al-Hakim bi Amrillah</string>
+    <string name="mosque_of_al_Hakim_bi_amrillah_short_location">Cairo Governorate</string>
+    <string name="mosque_of_al_Hakim_bi_amrillah_location">at the beginning of al-Muizz li Din Allah Street, adjacent to the Fatimid northern wall of the Old City of Cairo</string>
+    <string name="mosque_of_al_Hakim_bi_amrillah_history">Construction of the building began during the period AH 365–86 / AD 975–96 and ended in AH 403 / AD 1012 built by order of Caliph al-Aziz bi Allah and after him, by his son, Caliph al-Hakim bi Amrillah</string>
+    <string name="mosque_of_al_Hakim_bi_amrillah_info">the Mosque of al-Hakim bi Amrillah is considered to be one of the oldest examples in Egypt. The centre of this façade is marked by a projecting monumental portal composed of two squat towers that flank the entrance to the mosque.</string>
+
+    <!--The step pyramid of Sakkara-->
+
+    <string name="pyramid_of_sakkara_name">The step pyramid of Sakkara</string>
+    <string name="pyramid_of_sakkara_short_location">Al Badrashin, Giza Governorate</string>
+    <string name="pyramid_of_sakkara_location">in the Saqqara necropolis, Egypt, northwest of the city of Memphis</string>
+    <string name="pyramid_of_sakkara_history">It was built during the 27th century BC for the burial of Pharaoh Djoser by his vizier, Imhotep</string>
+    <string name="pyramid_of_sakkara_info">The Step Pyramid of Djoser at the Saqqara necropolis was the very first pyramid built by the ancient Egyptians. It consisted of six mastabas. The pyramid originally stood 62 metres (203 ft) tall, with a base of 109 m × 125 m (358 ft × 410 ft) and was clad in polished white limestone</string>
+
+    <!--The botanical Gardens of Kitchener island (Aswan) data-->
+
+    <string name="botanical_gardens_name">The botanical Gardens</string>
+    <string name="botanical_gardens_short_location">Aswan Governorate</string>
+    <string name="botanical_gardens_location">in the Nile at Aswan, Egypt.</string>
+    <string name="botanical_gardens_history">The island was previously known as Kitchener\'s Island, named after Lord Kitchener who owned it. He was gifted the island, when he served as Consul-General in Egypt from 29 September 1911 to June 1914.
+With the aid of the Ministry of Irrigation, Kitchener rapidly transformed the small 750 metres (2,460 ft) long island into a paradise of exotic trees, and plants in gardens with view walkways. It later passed into the property of the Egyptian government.
+</string>
+    <string name="botanical_gardens_info">The island, as a whole, constitutes the Aswan Botanical Garden. One can view the many types of subtropical, exotic, and rare plantings and trees such as the Royal Palm tree and the Sabal Palm tree.\nThe collection was begun by Lord Kitchener and cared for since</string>
+
+    <!--Library of Alexandria data-->
+
+    <string name="library_of_alexandria_name">Library of Alexandria</string>
+    <string name="library_of_alexandria_short_location">Alexandria</string>
+    <string name="library_of_alexandria_location">Al Azaritah WA Ash Shatebi, Qesm Bab Sharqi, alexandria 21526, Egypt</string>
+    <string name="library_of_alexandria_history">The library was arguably one of the largest and most significant libraries of the ancient world, but details about it are a mixture of history and legend. Its main purpose was to show off the wealth of Egypt, with research as a lesser goal, but its contents were used to aid the ruler of Egypt. According to the earliest source of information, the pseudepigraphic Letter of Aristeas composed between c.180 and 145 BC, the library was initially organized by Demetrius of Phaleron, a student of Aristotle, under the reign of Ptolemy I Soter (c.323 BC—c.283 BC). Other sources claim it was instead created under the reign of his son Ptolemy II (283–246 BC). The Library was built in the Brucheion (Royal Quarter) in the style of Aristotle\'s Lyceum, adjacent to (and in service of) the Musaeum (a Greek Temple or "House of Muses", whence the term "museum").</string>
+    <string name="library_of_alexandria_info">The library was created by Ptolemy I Soter, who was a Macedonian general and the successor of Alexander the Great.Most of the books were kept as papyrus scrolls. It is unknown precisely how many such scrolls were housed at any given time, but estimates range from 40,000 to 400,000 at its height. Arguably, this library is most famous for having been burned down resulting in the loss of many scrolls and books; its destruction has become a symbol for the loss of cultural knowledge. Sources differ on who was responsible for its destruction and when it occurred. The library may in truth have suffered several fires over many years. Possible occasions for the partial or complete destruction of the Library of Alexandria include a fire set by the army of Julius Caesar in 48 BC and an attack by Aurelian in the 270s AD.</string>
+  <!---->
+    <!--Cairo Metro data-->
+
+    <string name="cairo_metro_name">Cairo Metro</string>
+    <string name="cairo_metro_short_location">Cairo</string>
+    <string name="cairo_metro_location">Cairo</string>
+    <string name="cairo_metro_history">As the biggest and most densely populated city in Africa, and the Arab World, the case for a metro in Greater Cairo was strong. In 1987 that population stood at 10 million residents, not counting the two million or so commuters who came into Cairo every day to work.The capacity of Cairo\'s public transport infrastructure was around 20,000 passengers/hour, which increased to 60,000 after the construction of the Metro. In 1990 a study was conducted for the future needs of the city and showed there was a need for about 8.4 million journeys by public transport and 2.7 million journeys by other modes, such as taxi and car. The actual public transport capacity is 4.9 million journeys/day, 3.5 million short of the actual requirement. This has led to a 50% increase in the number of taxis on the streets with subsequent increases in traffic congestion in the city.</string>
+    <string name="cairo_metro_info">The Cairo Metro is the rapid transit system in Greater Cairo, Egypt. It was the first of only two full-fledged metro systems in Africa and only four in the Arab world.It was opened in 1987 as Line 1 from Helwan to Ramsis square with a length of 29 kilometres (18.0 mi).As of 2014, the Cairo Metro has 61 stations (mostly At-grade), of which 3 are transfer stations, with a total length of 77.9 kilometres (48.4 mi). The system consists of three operational lines numbered from 1 to 3. As of 2013, the metro carried nearly 4 million passengers per day.</string>
+  <!---->
+    <!--Cairo Tower data-->
+
+    <string name="cairo_tower_name">Cairo Tower</string>
+    <string name="cairo_tower_short_location">Cairo Governorate</string>
+    <string name="cairo_tower_location">Zamalek, Cairo Governorate, Egypt</string>
+    <string name="cairo_tower_history">Build from 1954 to 1961, the tower was designed by the Egyptian architect Naoum Shebib. Its partially open lattice-work design is intended to evoke a pharaonic lotus plant, an iconic symbol of Ancient Egypt. The tower is crowned by a circular observation deck and a rotating restaurant with a view over greater Cairo. One rotation takes approximately 70 minutes.</string>
+    <string name="cairo_tower_info">The Cairo Tower is a free-standing concrete tower located in Cairo, Egypt. At 187 m (614 ft), it has been the tallest structure in Egypt and North Africa for about 50 years. It was the tallest structure in Africa for 10 years, until 1971 when it was surpassed by Hillbrow Tower in South Africa.One of Cairo\'s well-known modern monuments, sometimes considered Egypt's second most famous landmark after the Pyramids of Giza, it stands in the Gezira district on Gezira Island in the River Nile, close to Downtown.</string>
+
+    <!--&lt;!&ndash;Alexandria data&ndash;&gt;-->
+
+    <!--<string name="alexandria_name"></string>-->
+    <!--<string name="alexandria_short_location"></string>-->
+    <!--<string name="alexandria_location"></string>-->
+    <!--<string name="alexandria_history"></string>-->
+    <!--<string name="alexandria_info"></string>-->
+  <!---->
+    <!--&lt;!&ndash;Alexandria data&ndash;&gt;-->
+
+    <!--<string name="alexandria_name"></string>-->
+    <!--<string name="alexandria_short_location"></string>-->
+    <!--<string name="alexandria_location"></string>-->
+    <!--<string name="alexandria_history"></string>-->
+    <!--<string name="alexandria_info"></string>-->
+
+
+   </resources>
+
